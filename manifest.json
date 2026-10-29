@@ -1,0 +1,19 @@
+﻿{
+  "id": "./",
+  "name": "Kumbakonam Degree Coffee",
+  "short_name": "Degree Coffee",
+  "description": "Your Kumbakonam Degree Coffee mobile hub.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#160f0b",
+  "theme_color": "#21150f",
+  "icons": [
+    {
+      "src": "coffee.png",
+      "sizes": "447x447",
+      "purpose": "any"
+    }
+  ]
+}
